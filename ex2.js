@@ -25,6 +25,6 @@ var b = 21;
 a = 2;
 a + b = 23 // what is the answer here?
 
-// What is c equal to? nu inteleg de unde as putea stii???!!
-var c;
+// What is c equal to?
+var c = undefined;
 
