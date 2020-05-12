@@ -23,7 +23,8 @@ console.log(myName);
 var a = 34;
 var b = 21;
 a = 2;
-a + b = 23 // what is the answer here?
+// what is the answer here?
+a + b == 23;
 
 // What is c equal to?
 var c = undefined;
